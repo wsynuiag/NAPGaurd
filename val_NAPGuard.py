@@ -46,7 +46,6 @@ from utils.metrics import ConfusionMatrix, ap_per_class, box_iou
 from utils.plots import output_to_target, plot_images, plot_val_study
 from utils.torch_utils import select_device, smart_inference_mode
 from torchvision import transforms
-from grad_cam3 import CAM
 from torchvision.utils import save_image
 import cv2
 import torch.nn as nn
