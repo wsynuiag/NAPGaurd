@@ -1,6 +1,6 @@
 # NAPGuard: Towards Detecting Naturalistic Adversarial Patches
 Welcome to the official implementation for the CVPR2024 paper _NAPGuard: Towards Detecting Naturalistic Adversarial Patches_. We will keep updating our source code.
-![image]([https://github.com/wsynuiag/NAPGaurd/blob/main/framework.png](https://github.com/wsynuiag/NAPGaurd/blob/main/figure/framework.png))
+![image](https://github.com/wsynuiag/NAPGaurd/blob/main/figure/framework.png)
 
 # Usage 
 ## Training Stage
