@@ -9,7 +9,7 @@ In this paper, we propose NAPGuard to provide strong detection capability agains
 ## Download the Generalized Adversarial Patch (GAP) dataset
 To address the lack of datasets in physical adversarial patch detection, we introduce the Generalized physical Adversarial Patch detection (GAP) dataset, aiming to provide an evaluation benchmark for future detection approaches.
 
-The GAP dataset contains 9266 images and 25 types of adversarial patches in total. Every adversarial patch is located with a bounding-box annotation. Detailed statistics of adversarial patches in training set and testing set are shown in the paper. All images are stored in PNG format with a fixed size of 416 $\times$ 416 pixels by padding or resizing. The dataset is partitioned into a training set (5617 images) and a testing set (3649 images)
+The GAP dataset contains 9266 images and 25 types of adversarial patches in total. Every adversarial patch is located with a bounding-box annotation. Detailed statistics of adversarial patches in training set and testing set are shown in the paper. All images are stored in PNG format with a fixed size of 416 $\times$ 416 pixels by padding or resizing. The dataset is partitioned into a training set (5617 images) and a testing set (3649 images). The original images are derived from [INRIA-Person](https://inria.hal.science/file/index/docid/548512/filename/hog_cvpr2005.pdf) and [MS COCO](https://cocodataset.org/#home).
 
 Our GAP dataset can be downloaded at https://drive.google.com/drive/folders/1xk9C6rFFSDPLUa1162EyxwodEsl7tfxD?usp=drive_link.
 
