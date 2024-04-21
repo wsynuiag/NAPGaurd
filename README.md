@@ -11,7 +11,7 @@ To address the lack of datasets in physical adversarial patch detection, we intr
 
 The GAP dataset contains 9266 images and 25 types of adversarial patches in total. Every adversarial patch is located with a bounding-box annotation. Detailed statistics of adversarial patches in training set and testing set are shown in the paper. All images are stored in PNG format with a fixed size of 416 $\times$ 416 pixels by padding or resizing. The dataset is partitioned into a training set (5617 images) and a testing set (3649 images)
 
-Our GAP dataset will be available soon.
+Our GAP dataset can be downloaded at https://drive.google.com/drive/folders/1xk9C6rFFSDPLUa1162EyxwodEsl7tfxD?usp=drive_link.
 
 ## Training Stage
 To train a patch detector, run
