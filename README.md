@@ -31,3 +31,15 @@ python val_NAPGuard.py --NFSI --thres_factor thres --sigma sigma
 ```
 Results will be saved in `runs/NAPGuard_val/`
 
+## Citation
+If our work or this repo is useful for your research, please cite our paper as follows:
+```
+@InProceedings{Wu_2024_CVPR,
+    author    = {Wu, Siyang and Wang, Jiakai and Zhao, Jiejie and Wang, Yazhe and Liu, Xianglong},
+    title     = {NAPGuard: Towards Detecting Naturalistic Adversarial Patches},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {24367-24376}
+}
+```
