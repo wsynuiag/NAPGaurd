@@ -20,6 +20,8 @@ python train_NAPGuard.py --AFAL
 ```
 Results will be saved in `runs/NAPGuard_train/`
 
+
+
 ## Inference Stage
 To evaluate the trained patch detector, run:
 ```python
@@ -30,6 +32,9 @@ or adjust the hyper-parameters by running:
 python val_NAPGuard.py --NFSI --thres_factor thres --sigma sigma
 ```
 Results will be saved in `runs/NAPGuard_val/`
+
+## Updates
+We also provide the patch detector `NAPGuard.pt` used in our paper.
 
 ## Citation
 If our work or this repo is useful for your research, please cite our paper as follows:
