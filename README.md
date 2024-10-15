@@ -35,6 +35,7 @@ Results will be saved in `runs/NAPGuard_val/`
 
 ## Updates
 We also provide the patch detector `NAPGuard.pt` used in our paper.
+You can download it at https://drive.google.com/drive/folders/1glJfqmxaM9qCy01jbsMOTww8HhlRwtY3?usp=sharing
 
 ## Citation
 If our work or this repo is useful for your research, please cite our paper as follows:
