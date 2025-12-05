@@ -13,6 +13,8 @@ The GAP dataset contains 9266 images and 25 types of adversarial patches in tota
 
 Our GAP dataset can be downloaded at https://drive.google.com/drive/folders/1xk9C6rFFSDPLUa1162EyxwodEsl7tfxD?usp=drive_link.
 
+More details of our GAP dataset can be found in [Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Wu_NAPGuard_Towards_Detecting_CVPR_2024_supplemental.pdf) and `./data/dataset_distribution.md`
+
 ## Training Stage
 To train a patch detector, run
 ```python
